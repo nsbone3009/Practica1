@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="titulo_practica">Práctica 1</string>
+    <string name="label_nombre">Nombre:</string>
+    <string name="hint_nombre">Ingrese su nombre</string>
+    <string name="btn_enviar">Enviar</string>
+</resources>
